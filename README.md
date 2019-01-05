@@ -5,6 +5,7 @@ Formats: OneNote, Word, and PDF
 
 Outline:
 1. Introduction - Fundamentals and basics of different topics like networking, databases, web applications, commands, etc.
+
 •	Windows
 •	Linux
 •	Networking
