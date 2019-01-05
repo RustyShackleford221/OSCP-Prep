@@ -6,74 +6,74 @@ Formats: OneNote, Word, and PDF
 Outline:
 1. Introduction - Fundamentals and basics of different topics like networking, databases, web applications, commands, etc.
 
-•	Windows
-•	Linux
-•	Networking
-•	Web Application Basics
-•	Services and Ports
-•	File Transfers
-•	Python Fundamentals
-•	C# Fundamentals
-•	TCPdump
-•	Powershell
-•	Wireshark
-•	Packet Crafting Tools
-•	FTP
-•	SQL
-•	YouTube Playlist 
+-	Windows
+-	Linux
+-	Networking
+-	Web Application Basics
+-	Services and Ports
+-	File Transfers
+-	Python Fundamentals
+-	C# Fundamentals
+-	TCPdump
+-	Powershell
+-	Wireshark
+-	Packet Crafting Tools
+-	FTP
+-	SQL
+-	YouTube Playlist 
 
 2.	Databases
-•	SQL
-•	IIS
-•	IIS Web Server
-•	MySQL
+-	SQL
+-	IIS
+-	IIS Web Server
+-	MySQL
 
 3.	Kali Tools
-•	IP Tables
-•	Tools
-•	Bettercap
-•	Masscan
-•	SQL Injection Tools
-•	Mimikatz
-•	Wordlists
-•	SecLists
-•	Arp-scan
-•	Dmitry
-•	Dnsmap
-•	DNSRecon
-•	Dnswalk
-•	dotDotPwn
-•	Enum4Linux
-•	GoLismero
-•	Ident-user-enum
-•	Nikto
-•	Nmap
-•	Recon-ng
-•	SMBMap
-•	Smtp-user-enum
-•	Snmp-check
-•	Sparta
-•	SSLyze
-•	theHarvester
-•	Unicornscan
-•	Openvas
-•	Oscanner
-•	Armitage
-•	BeEF
-•	Exploitdb
-•	Maltego
-•	Metasploit
-•	Dirb
-•	DirBuster
-•	Gobuster
-•	W3af
-•	WebSlayer
-•	WhatWeb
-•	WPScan
-•	XSSer
-•	Bettercap
-•	Ncat
-•	Weevely
+-	IP Tables
+-	Tools
+-	Bettercap
+	Masscan
+- SQL Injection Tools
+-	Mimikatz
+-	Wordlists
+-	SecLists
+-	Arp-scan
+-	Dmitry
+-	Dnsmap
+-	DNSRecon
+-	Dnswalk
+-	dotDotPwn
+-	Enum4Linux
+-	GoLismero
+-	Ident-user-enum
+-	Nikto
+-	Nmap
+-	Recon-ng
+-	SMBMap
+-	Smtp-user-enum
+-	Snmp-check
+-	Sparta
+-	SSLyze
+-	theHarvester
+-	Unicornscan
+-	Openvas
+-	Oscanner
+-	Armitage
+-	BeEF
+-	Exploitdb
+-	Maltego
+-	Metasploit
+-	Dirb
+-	DirBuster
+-	Gobuster
+-	W3af
+-	WebSlayer
+-	WhatWeb
+-	WPScan
+-	XSSer
+-	Bettercap
+-	Ncat
+-	Weevely
 
 4.	Penetration Testing Methodology
 •	SANS Penetration Testing
