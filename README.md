@@ -91,13 +91,13 @@ Outline:
 
 6.	Recon, Scanning, Enumeration
 •	Recon
-    -	DNS
+    - DNS
     - Whois
-    -	Social Media
-    -	Web Search
+    - Social Media
+    - Web Search
     - GHDB / Google
-    -	Nslookup
-    -	Shodan
+    - Nslookup
+    - Shodan
 •	Recon-ng
 •	Passive Scanning
 •	Active Scanning
