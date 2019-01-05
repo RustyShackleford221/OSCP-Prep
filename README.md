@@ -1,6 +1,7 @@
 # OSCP-Prep
 I created this repo as a resource for people wanting to learn more about penetration testing. Whether you are looking at getting into the into the information security field, preparing for the Penetration Testing with Kali Linux course, studying for OSCP exam, or just needing a refresher. Here you will find information I’ve gathered from a number of resources on various topics.  Please let me know if anything is incorrect, or if there is something you would like to see. 
 
+Formats: OneNote, Word, and PDF
 
 Outline:
 1. Introduction
